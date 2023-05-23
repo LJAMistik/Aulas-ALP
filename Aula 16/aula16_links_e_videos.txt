@@ -1,0 +1,22 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Excessões, Iterators e Generators
+
+Slides:
+Aula 16 - <aqui>
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 56 - O que são erros em python e quais os principais? - https://youtu.be/u8xEuB2jfus
+Aula 57 - A Função raise() - https://youtu.be/rD3aTFGTKzo
+Aula 58 - Bloco Try/Except - https://youtu.be/5OKCswqpHPE
+Aula 59 - Bloco Try/Except/Else/Finally - https://youtu.be/pNVKXTvexXc
+Aula 121 - Iteradores e Iteráveis em Python - https://youtu.be/bjs1g_zvFfc
+Aula 122 - Implementando a Função loop() em Python - https://youtu.be/ywJ1qeA49Lg
+Aula 123 - Customizando a Função range() em Python - https://youtu.be/5uL5ERMqC9Q
+Aula 124 - O que são Generators em Python? - https://youtu.be/VPO7s40MeWU
+Aula 125 - Expressões Geradoras em Python - https://youtu.be/ByGSHg7OxDY 
+Aula 126 - Verificando a Memória com Geradores em Python - https://youtu.be/8fHb1azKEk4
+Aula 127 - Testando a Velocidade com Geradores em Python - https://youtu.be/VCZiPlKR3yQ

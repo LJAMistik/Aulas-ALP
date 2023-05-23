@@ -1,0 +1,1 @@
+"""Exercício 1: Faça um algoritmo para ler um número e mostrar se ele é par ou impar, positivo ou negativo."""

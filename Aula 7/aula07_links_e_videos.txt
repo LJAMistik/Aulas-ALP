@@ -1,0 +1,20 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Estruturas de Repetição  (determinada e indeterminada)
+
+Slides:
+Aula 07 - <aqui>
+
+Material de Apoio: 
+Capítulo 08 - Estrutura de repetição do livro "Algoritmos e Programação de Computadores".
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 36 - O que são estruturas de repetição? - https://youtu.be/PUJV52JcCcU
+Aula 37 - Estruturas de repetição: comando for - https://youtu.be/tHtBuGFYVnE
+Aula 38 - Estruturas de repetição: comando while - https://youtu.be/7gwvopBnLqQ
+Aula 39 - Estruturas de repetição: comandos break e continue - https://youtu.be/Eb9C_FdVtDU
+Aula 40 - Desafio deste módulo - https://youtu.be/xReD5eSsDxU
+Aula 41 - Resposta do desafio deste módulo - https://youtu.be/NuQwPx3Ep_k

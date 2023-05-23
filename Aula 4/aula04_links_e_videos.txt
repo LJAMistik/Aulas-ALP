@@ -1,0 +1,24 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Estruturas sequenciais
+
+Slides:
+Aula 04 - <aqui>
+GIT 03 - <aqui>
+
+Material de Apoio: 
+Capítulo 05 - Estrutura sequencial do livro "Algoritmos e Programação de Computadores".
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 12 - História da Linguagem Python - https://youtu.be/Y3hnQBse3ss
+Aula 13 - Zen do Python - https://youtu.be/lXitJ2TBuT0
+Aula 14 - PEP 8 - https://youtu.be/OpO-mne_yRM
+Aula 15 - Funções dir() e help() - https://youtu.be/FA_oF-OaLsk
+Aula 16 - Primeiros comandos em Python: print e input - https://youtu.be/ASRhTpJNqq0
+Aula 17 - Resposta do primeiro desafio - https://youtu.be/13LMpFucSX8
+Aula 18 - Identificadores e Palavras Reservadas - https://youtu.be/i-GmnaIji8g
+Aula 19 - Comentários em Linguagem Python - https://youtu.be/18qnageghXg
+Aula 20 - Primeiros comandos em Linguagem Python - Usando uma IDE - https://youtu.be/g38rVYXIsk4

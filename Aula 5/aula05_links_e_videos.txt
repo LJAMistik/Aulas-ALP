@@ -1,0 +1,23 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Slides:
+Aula 05 - <aqui>
+GIT 04 - <aqui>
+
+Material de Apoio: 
+Capítulo 06 - Estrutura  condicional simples e composta do livro "Algoritmos e Programação de Computadores".
+
+Prática de Laboratório 02: 
+Atividades em laboratório - <aqui>
+Resolução das atividades em laboratório - <breve>
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 29 - O que é uma expressão matemática? - https://youtu.be/rb2orBc_gVM
+Aula 30 - O que é uma expressão lógica? - https://youtu.be/7fREjLdJBOc
+Aula 31 - Estrutura Condicional - https://youtu.be/4Bc5HMEMyM4
+Aula 32 - Comando elif - https://youtu.be/jT-zjJs8Pqc
+Aula 33 - Aninhamento de Ifs - https://youtu.be/Jq_jZ-iXEGM
+Aula 34 - Desafio deste módulo - https://youtu.be/jP0WjB6vBE8
+Aula 35 - Resposta do Desafio deste Módulo - https://youtu.be/yAmhZ6g9r-Q

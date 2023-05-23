@@ -1,0 +1,23 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Modularização (Funções)
+
+Slides:
+Aula 12 - <aqui>
+
+Material de Apoio: 
+Capítulo 11 - Modularização de algoritmos - Procedimentos e Funções  do livro "Algoritmos e Programação de Computadores".
+
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 48 - O que é uma Função? - https://youtu.be/m8e_E2pcpX4
+Aula 49 - Função sem retorno - https://youtu.be/eJZhUA-SJWc  
+Aula 50 - Função com retorno - https://youtu.be/Kij9vdbzmXY  
+Aula 51 - Função com Parâmetro - https://youtu.be/5ty7-Bh2pIs   
+Aula 52 - Função com Parâmetro padrão - https://youtu.be/NAI4z51RK2Q  
+Aula 53 - Documentação de Funções: DocString - https://youtu.be/Ng655oU-Cos 
+Aula 54 - Argumentos *args e **kwargs - https://youtu.be/bgvLtxWkIsE    
+Aula 55 - Desafio deste módulo ( e resposta ) - https://youtu.be/l1nXfE3akd4

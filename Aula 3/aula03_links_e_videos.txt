@@ -1,0 +1,25 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Resolução de problemas. Expressões matemáticas. Tipos de Dados.
+
+Slides:
+Aula 03 - <aqui>
+GIT 02 - <aqui>
+
+Material de Apoio: 
+Capítulo 02 - O raciocínio e as formas de resolução de problemas  do livro "Algoritmo e Programação de Computadores"
+Capítulo 03 - Expressões matemáticas e lógicas e seus operadores  do livro "Algoritmo e Programação de Computadores"
+Capítulo 04 - Tipo de dados  do livro "Algoritmo e Programação de Computadores"
+
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 21 - O que é uma variável? - https://youtu.be/VAmRRTBXG4A
+Aula 22 - O que é uma constante? - https://youtu.be/BhT27SUz5Kc
+Aula 23 - Tipos de Dados em Python: INTEIRO - https://youtu.be/bFZk6l1OZDo
+Aula 24 - Tipos de Dados em Python: FLOAT e COMPLEX - https://youtu.be/5iEaMPaqV2Y
+Aula 25 - Tipos de Dados em Python: BOOLEAN - https://youtu.be/fAX8uIXDWyA
+Aula 27 - Escopo e Conversão de Variáveis - https://youtu.be/o-SS_fMl0a4
+Aula 28 - Desafio deste módulo - https://youtu.be/H0tbaq7S6M0

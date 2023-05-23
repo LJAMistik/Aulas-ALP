@@ -1,0 +1,43 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Apresentação da Disciplina e Introdução a Algoritmos.
+
+Slides:
+Aula 01 - <aqui>
+
+Material de Apoio: 
+Capítulo Um - O que são algoritmos e por que você deve se importar com eles?
+do livro "Desmistificando Algoritmos" de Thomas H. Cormen.
+
+Vá para a amostra do livro e clique sobre a figura da capa do livro. Você conseguirá ler todo o primeiro capítulo. 
+Link <aqui>
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 01 - Por que aprender programação? https://youtu.be/eGVNRynWMJ0
+Aula 02 - Por que aprender Python? - https://youtu.be/BHEcKtP8bTI
+Aula 03 - Comparação entre Python e outras linguagens - https://youtu.be/9CONtKJkdwY
+Aula 04 - Quem sou eu? - https://youtu.be/1nnvScRn7p4
+
+Vídeos sobre a história da computação e conceitos fundamentais:
+Alguns termos utilizados em computação e matemática - Cálculo, Contas... - <link>
+Evolução: válvulas - transistores - circuitos integrados - <aqui>
+Filme - O jogo da Imitação (trailler) - <aqui>
+Filme - Piratas do Vale do Silício - (trailler) - <aqui>
+Breve história dos computadores - <aqui>
+Série de 4 Videos (KhanAcademy) sobre a História dos Computadores e Internet - <aqui>
+Mais uma história resumida dos computadores - <aqui>
+Outros vídeos interessantes:
+História do ENIAC (primeiro computador digital) - <aqui>
+História do Sistema Operacional Windows - <aqui>
+História da IBM - <aqui>
+História da Microsoft - <aqui>
+História da Apple - <aqui>
+História do Wifi - <aqui>
+História dos SmarthWatches - <aqui>
+História da Internet - <aqui>
+História do email - <aqui>
+História do Google - <aqui>
+História da Inteligência Artificial - <aqui>

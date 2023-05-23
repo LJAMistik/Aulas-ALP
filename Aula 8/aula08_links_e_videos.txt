@@ -1,0 +1,15 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Estruturas de Dados (Strings)
+
+Slides:
+Aula 08 - <aqui>
+
+Material de Apoio: 
+Capítulo 12 - String ou Cadeia de Caracteres do livro "Algoritmos e Programação de Computadores".
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 26 - Tipos de Dados em Python: STRING - https://youtu.be/UprOjDArIGE

@@ -1,0 +1,16 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Estruturas de Dados (Vetores ou Listas)
+
+Slides:
+Aula 09 - <aqui>
+
+Material de Apoio: 
+Capítulos 9 e 10 - Vetor e Matrizes do livro "Algoritmos e Programação de Computadores".
+
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 42 - Listas - https://youtu.be/u1c2Z9E1DuM

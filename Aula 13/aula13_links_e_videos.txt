@@ -1,0 +1,18 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Semana 13
+Tema:
+Recursão e Módulos (pacotes) em Python
+
+Slides:
+Aula 13 - <aqui>
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 62 - O que são Módulos? - https://youtu.be/23x0lqAs8e8
+Aula 63 - O módulo "random" - https://youtu.be/0YnwxsutecU
+Aula 64 - Módulos Built-in - https://youtu.be/YabJvbdteUc
+Aula 65 - Módulos e Pacotes de Terceiros - https://youtu.be/__s2krPq4dk
+Aula 66 - Módulos Customizados - https://youtu.be/YoZkPUXZg9c
+Aula 67 - Métodos __main__ e __name__  - https://youtu.be/E-vhBOQf4oA

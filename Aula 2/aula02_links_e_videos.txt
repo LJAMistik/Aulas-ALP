@@ -1,0 +1,27 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+A lógica e os algoritmos.
+
+Slides:
+Aula 02 - <aqui>
+GIT 01 - <aqui>
+
+Material de Apoio: 
+Capítulo 01 - A lógica e os Algoritmos  do livro "Algoritmo e Programação de Computadores".
+
+Ambientes de desenvolvimento que utilizaremos (IDEs): 
+VisuAlg - programação em português estruturado - <aqui>
+Instalação do Python:  https://python.org
+IDE PyCharm: Escolha Community Edition --> https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 05 - A instalação do Python - https://youtu.be/0iRTcMzS6EI
+Aula 06 - A escolha de uma IDE - https://youtu.be/Lxqt0vdWTMw
+Aula 07 - Instalação do PyCharm no Windows - https://youtu.be/7POnvegXmnc
+Aula 08 - Instalação do PyCharm no Linux - https://youtu.be/zT0nf7-wNRk
+Aula 09 - Instalação do PyCharm no MacOS - https://youtu.be/cYyQYADkC9Q
+Aula 10 - Programação em Python utilizando o Navegador -  https://youtu.be/z76V6WcwXa0
+Aula 11 - Programação Python utilizando um APP (no celular!) - https://youtu.be/X-cXcYWKdhY

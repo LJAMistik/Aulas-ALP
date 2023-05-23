@@ -1,0 +1,16 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Estrutura de Dados (Coleções: Tuplas, Dicionários e Conjuntos)
+
+Lista de Exercícios:
+Aula 11 - <aqui>
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 43 - Tuplas - https://youtu.be/ckvv1-oS14Q
+Aula 44 - Dicionários - https://youtu.be/5OCdIbjmftA
+Aula 45 - Conjuntos - https://youtu.be/kEuoxAlZIjg
+Aula 46 - Desafio deste módulo - https://youtu.be/y7fkEXtyb8k
+Aula 47 - Resposta do Desafio deste Módulo - https://youtu.be/ApZAcxrC7JI

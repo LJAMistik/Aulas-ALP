@@ -1,0 +1,23 @@
+http://piva.pro.br/
+https://alprogr.blogspot.com/
+
+Tema:
+Trabalhando com Arquivos
+
+Slides:
+Aula 14 - <aqui>
+
+Material de Apoio: 
+Capítulo 15 - Arquivos do livro "Algoritmos e Programação de Computadores".
+
+
+Vídeos para Complementar a aprendizagem: 
+Canal pyPRO:
+Aula 74 - Leitura de Arquivos - https://youtu.be/84j9Q471B7I
+Aula 75 - Escrevendo em Arquivos - https://youtu.be/Pms2PYxk3dY 
+Aula 76 - Seek e Cursor - https://youtu.be/1kfpj59uunA
+Aula 77 - Comando "with" - https://youtu.be/fqB18TsBX5s
+Aula 78 - Modos de Operação em Arquivos - https://youtu.be/BNC55HVukMw
+Aula 79 - StringIO  -  https://youtu.be/5qT1M-cDB0c
+Aula 80 - Sistema de Arquivos - Navegação - https://youtu.be/ds2O2yUtZ0U
+Aula 81 - Sistema de Arquivos - Manipulação - https://youtu.be/eDrQO_YlEGg
