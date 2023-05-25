@@ -8,3 +8,12 @@ subir para atingir seu objetivo.
 Obs: não se preocupe com a altura do
 usuário!
 """
+# Solicitar ao usuario
+
+altura = float(input("Qual altura, em metros, você quer chegar? "))
+tamanho = float(input("Qual a altura, em cm, de cada degrau? "))
+
+# Calcular
+total_degrais = altura * (100 / tamanho)
+
+print(f"Você precisa subir {total_degrais} degraus.")
